@@ -1,0 +1,12 @@
+ADT - 
+
+POM_BW_40_CTV_5.25$_July30_VAST	
+
+https://vast.junnya.com/ssp/vast/59e5ed4b8346f30002000001/5f22ae1f40d1370001879cdf?cb=[CB]&width=[WIDTH]&height=[HEIGHT]&dnt=[DO_NOT_TRACK]&sub_id=[SUB_ID]&app_name=[APP_NAME]&bundle_id=[BUNDLE_ID]&ifa=[IFA]&app_store_url=[APP_STORE_URL]&app_category=[APP_CATEGORY]&ip=[IP]&ua=[UA]&user_lat=[USER_LAT]&user_lon=[USER_LON]&user_consent=[USER_CONSENT]&gdpr=[GDPR]&schain=[SCHAIN]&us_privacy=[US_PRIVACY]
+
+POM_BW_40_IA_2.1$_July30_VPAID	
+
+https://vpaid.junnya.com/ssp/vpaid/59e5ed4b8346f30002000001/5f22ad8040d1370001879c9b?cb=[CB]&width=[WIDTH]&height=[HEIGHT]&dnt=[DO_NOT_TRACK]&sub_id=[SUB_ID]&app_name=[APP_NAME]&bundle_id=[BUNDLE_ID]&ifa=[IFA]&app_store_url=[APP_STORE_URL]&app_category=[APP_CATEGORY]&ip=[IP]&ua=[UA]&user_lat=[USER_LAT]&user_lon=[USER_LON]&user_consent=[USER_CONSENT]&gdpr=[GDPR]&schain=[SCHAIN]&us_privacy=[US_PRIVACY]
+
+
+
